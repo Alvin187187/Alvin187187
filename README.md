@@ -8,7 +8,7 @@ I'm passionate about **machine learning, web development, and building real-worl
 
 ## 🌱 About Me
 - 🎓 IT student focused on innovation and emerging technologies  
-- 🤝 Active student leader & Student Council mentee  
+- 🤝 Active student leader, AWS TIP-Manila Ambassador, & Student Council mentee 
 - 🌐 Member of tech communities:
   - Data Engineers Philippines  
   - Microsoft Azure Community  
