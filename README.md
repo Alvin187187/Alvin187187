@@ -20,19 +20,22 @@ I'm passionate about **machine learning, web development, and building real-worl
 
 ## 💻 Projects
 
-### 🔹 Featured Projects
+### 🔹 Featured Projects (soon to be updated)
 - **VUL Insurance Automated Computing System**  
 - **Metro-Explorer Commuter App (iOS)**  
 - **KLASMeal Canteen Ordering App (iOS)**  
 - **Okada Manila Website Usability Testing & Research**  
 - **Java-Based EduPortal Management System**  
 
-### 🔥 Current Focus
+### 🔥 Current Focus *(Coming Soon)* 
 - **Katutubo Explorer**  
   A web-based platform preserving Philippine indigenous tribes through smart mapping and gamification  
 
-- **Barangay Documents & Legal Transactions Request System** *(Coming Soon)*  
+- **Barangay Documents & Legal Transactions Request System**  
 
+## ⭐ Personal Website
+
+*I am currently updating my personal website for you to view all my projects, stay tuned!*
 ---
 
 ## 🛠️ Tech Stack
