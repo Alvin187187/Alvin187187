@@ -34,8 +34,7 @@ I'm passionate about **machine learning, web development, and building real-worl
 - **Barangay Documents & Legal Transactions Request System**  
 
 ## ⭐ Personal Website
-
-*I am currently updating my personal website for you to view all my projects, stay tuned!*
+- *I am currently updating my personal website for you to view all of my projects, stay tuned!*
 ---
 
 ## 🛠️ Tech Stack
