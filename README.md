@@ -29,7 +29,7 @@ I'm passionate about **machine learning, web development, and building real-worl
 - **Okada Manila Website Usability Testing & Research**  
 - **Java-Based EduPortal Management System**  
 
-### 🔥 Current Focus *(Coming Soon)* 
+### 🔥 Current Focus *(Will be released next week!)* 
 - **Katutubo Explorer**  
   A web-based platform preserving Philippine indigenous tribes through smart mapping and gamification  
 
@@ -67,7 +67,7 @@ I'm passionate about **machine learning, web development, and building real-worl
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: (https://www.linkedin.com/in/alvin-d-9aa732376/)
+- LinkedIn: https://www.linkedin.com/in/alvin-d-9aa732376/
 - Email: alvindellomas0716@gmail.com or alvindellomas678@gmail.com
 
 ---
