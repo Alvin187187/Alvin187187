@@ -35,6 +35,8 @@ I'm passionate about **machine learning, web development, and building real-worl
 
 - **Barangay Documents & Legal Transactions Request System**  
 
+*Save the date: April 16, 2026. Release of 2 new projects and proposal of 3 new projects.*
+
 ## ⭐ Personal Website
 - *I am currently updating my personal website for you to view all of my projects, stay tuned!*
 ---
@@ -74,7 +76,7 @@ I'm passionate about **machine learning, web development, and building real-worl
 
 ## ✨ Fun Fact
 1. I love collaborating with people and exploring new technologies that can solve real-world problems!
-2. I started my computer and/or innovation interest way back 2017! When I was 10 years old.
+2. I started my coding journey way back 2017! When I was 10 years old.
 3. I have **ENFJ** Personality
    
 
