@@ -25,8 +25,8 @@ I'm passionate about **machine learning, web development, and building real-worl
 ### 🔹 Featured Projects (soon to be updated)
 - **VUL Insurance Automated Computing System**  
 - **Metro-Explorer Commuter App (iOS)**  
-- **KLASMeal Canteen Ordering App (iOS)**  
-- **Okada Manila Website Usability Testing & Research**  
+- **KLASMeal Canteen Ordering App (iOS)**  **(soon to be depriciated)**
+- **Okada Manila Website Usability Testing & Research**   **(soon to be depriciated)**
 - **Java-Based EduPortal Management System**  
 
 ### 🔥 Current Focus *(Will be released next week!)* 
