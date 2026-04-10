@@ -11,9 +11,11 @@ I'm passionate about **machine learning, web development, and building real-worl
 - 🤝 Active student leader, AWS TIP-Manila Ambassador, & Student Council mentee 
 - 🌐 Member of tech communities:
   - Data Engineers Philippines  
-  - Microsoft Azure Community  
+  - Microsoft Azure Community Philippines 
   - Google Developers Group Manila  
-  - AWS Cloud Club Philippines  
+  - AWS Cloud Club Philippines
+  - AWS e:Novators Philippines
+  - Quantum Computing Society
 - 💡 I enjoy solving real-life problems through technology  
 
 ---
