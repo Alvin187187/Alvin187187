@@ -35,7 +35,7 @@ I'm passionate about **machine learning, web development, and building real-worl
 
 - **Barangay Documents & Legal Transactions Request System**  
 
-*Save the date: April 16, 2026. Release of 2 new projects and proposal of 3 new projects.*
+***Save the date:** April 16, 2026. Release of 2 new projects and proposal of 3 new projects.*
 
 ## ⭐ Personal Website
 - *I am currently updating my personal website for you to view all of my projects, stay tuned!*
