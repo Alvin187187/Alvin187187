@@ -63,8 +63,7 @@ I'm passionate about **machine learning, web development, and building real-worl
 
 ## 🎯 Goals
 - 🚀 Build impactful and scalable applications  
-- 🧠 Specialize in AI and Machine Learning  
-- 🎓 Get accepted into the Stanford Fellowship
+- 🧠 Specialize in AI and Machine Learning 
 - 🔭 Explore Cloud Technologies and Blockchain
 
 ---
