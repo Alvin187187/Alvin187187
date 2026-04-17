@@ -25,8 +25,8 @@ I'm passionate about **machine learning, web development, and building real-worl
 ### 🔹 Featured Projects (soon to be updated)
 - **VUL Insurance Automated Computing System**  
 - **Metro-Explorer Commuter App (iOS)**  
-- **KLASMeal Canteen Ordering App (iOS)**  _(soon to be depriciated)_
-- **Okada Manila Website Usability Testing & Research**  _(soon to be depriciated)_
+- **KLASMeal Canteen Ordering App (iOS)**  _(soon to be depricated)_
+- **Okada Manila Website Usability Testing & Research**  _(soon to be depricated)_
 - **Java-Based EduPortal Management System**  
 
 ### 🔥 Current Focus *(Will be released next week!)* 
@@ -76,7 +76,7 @@ I'm passionate about **machine learning, web development, and building real-worl
 
 ## ✨ Fun Fact
 1. I love collaborating with people and exploring new technologies that can solve real-world problems!
-2. I started my coding journey way back 2017! When I was 10 years old.
+2. I started my coding journey way back 2017! When I was 11 years old.
 3. I have **ENFJ** Personality
    
 
