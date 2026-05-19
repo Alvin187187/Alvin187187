@@ -53,9 +53,11 @@ I'm passionate about **machine learning, web development, and building real-worl
 ---
 
 ## 📚 Currently Learning
-- ⚛️ React  
-- 🌐 Node.js  
-- ☁️ AWS AI & Machine Learning  
+- ⚛️ Microsoft Azure AI  
+- 🌐 Training LLMs   
+- ☁️ AWS AI & Machine Learning
+- ♻️ Multimodal Llama 3.2
+- 📑 Google Cloude Fundamentals
 
 ---
 
