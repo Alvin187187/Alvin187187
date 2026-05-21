@@ -27,12 +27,8 @@ I'm passionate about **machine learning, web development, and building real-worl
 - **Metro-Explorer Commuter App (iOS)**  
 - **KLASMeal Canteen Ordering App (iOS)**  _(soon to be depricated)_
 - **Okada Manila Website Usability Testing & Research**  _(soon to be depricated)_
-- **Java-Based EduPortal Management System**  
-
-### 🔥 Current Focus *(Will be released next week!)* 
-- **Katutubo Explorer**  
-  A web-based platform preserving Philippine indigenous tribes through smart mapping and gamification  
-
+- **Java-Based EduPortal Management System**
+- **Katutubo-Explorer: A web-based platform preserving Philippine indigenous tribes through smart mapping and gamification**
 - **Barangay Documents & Legal Transactions Request System**  
 
 ## ⭐ Personal Website
