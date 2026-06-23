@@ -2,7 +2,7 @@
 📍 Pasig City, Philippines  
 
 Hi! I'm Alvin, a 1st-year BS Information Technology student at the Technological Institute of the Philippines.  
-I'm passionate about **machine learning, web development, and building real-world tech solutions**.
+I'm passionate about **machine learning, cloud development, and building real-world tech solutions**.
 
 ---
 
@@ -16,6 +16,7 @@ I'm passionate about **machine learning, web development, and building real-worl
   - AWS Cloud Club Philippines
   - AWS e:Novators Philippines
   - Quantum Computing Society
+  - Cursor User and Codex User Community
 - 💡 I enjoy solving real-life problems through technology  
 
 ---
@@ -52,8 +53,9 @@ I'm passionate about **machine learning, web development, and building real-worl
 - ⚛️ Microsoft Azure AI  
 - 🌐 Training LLMs   
 - ☁️ AWS AI & Machine Learning
-- ♻️ Multimodal Llama 3.2
-- 📑 Google Cloude Fundamentals
+- ♻️ Linux
+- 📑 AWS and Google Cloud Fundamentals
+- 💻 Networking
 
 ---
 
@@ -67,6 +69,7 @@ I'm passionate about **machine learning, web development, and building real-worl
 ## 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/alvin-d-9aa732376/
 - Email: alvindellomas0716@gmail.com or alvindellomas678@gmail.com
+- ResearchGate: Alvin Dellomas _(https://www.researchgate.net/profile/Alvin-Dellomas/research)_
 
 ---
 
