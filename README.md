@@ -1,7 +1,7 @@
 # 🚀 Alvin Dellomas  
 📍 Pasig City, Philippines  
 
-Hi! I'm Alvin, a 1st-year BS Information Technology student at the Technological Institute of the Philippines.  
+Hi! I'm Alvin, a 2nd-year BS Information Technology student at the Technological Institute of the Philippines.  
 I'm passionate about **machine learning, cloud development, and building real-world tech solutions**.
 
 ---
