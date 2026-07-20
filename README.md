@@ -38,14 +38,33 @@ I'm passionate about **machine learning, cloud development, and building real-wo
 
 ## 🛠️ Tech Stack
 
-### 💡 Languages
-`HTML` `CSS` `JavaScript` `PHP` `SQL`  
-`Java` `Python` `C++` `C#`  
-`Kotlin` `Swift`
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
-### ⚙️ Tools & Technologies
-`Git` `React (Basic)` `jQuery (Basic)`  
-`phpMyAdmin` `XML`
+### 🤖 AI & ML
+`Scikit-learn` `Prompt Engineering` `Model Training` `Model Evaluation`
+`Classification` `Regression` `NLTK` `Intent Recognition`
+`Sentiment Analysis` `Conversational AI`
+
+### 🌐 Web Development
+`React` `React Three Fiber` `Three.js`
+`Leaflet.js` `MapLibre GL`
+`FastAPI` `Flask` `REST APIs`
+
+### ☁️ Database & Cloud
+`AWS AgentCore` `Firebase Firestore`
+`MySQL` `MongoDB`
+
+### 🔧 Tools
+`Git` `GitHub` `phpMyAdmin` `XML`
 
 ---
 
