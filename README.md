@@ -124,7 +124,7 @@ I'm passionate about **machine learning, cloud development, and building real-wo
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/alvin-d-9aa732376/
+- LinkedIn: https://www.linkedin.com/in/alvin-dellomas-9aa732376/
 - Email: alvindellomas0716@gmail.com or alvindellomas678@gmail.com
 - ResearchGate: Alvin Dellomas _(https://www.researchgate.net/profile/Alvin-Dellomas/research)_
 
