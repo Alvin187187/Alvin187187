@@ -21,17 +21,6 @@ I'm passionate about **machine learning, cloud development, and building real-wo
 
 ---
 
-## 💻 Projects
-
-### 🔹 Featured Projects (soon to be updated)
-- **VUL Insurance Automated Computing System**  
-- **Metro-Explorer Commuter App (iOS)**  
-- **KLASMeal Canteen Ordering App (iOS)**  _(soon to be depricated)_
-- **Okada Manila Website Usability Testing & Research**  _(soon to be depricated)_
-- **Java-Based EduPortal Management System**
-- **Katutubo-Explorer: A web-based platform preserving Philippine indigenous tribes through smart mapping and gamification**
-- **Barangay Documents & Legal Transactions Request System**  
-
 ## ⭐ Personal Website
 - *I am currently updating my personal website for you to view all of my projects, stay tuned!*
 ---
