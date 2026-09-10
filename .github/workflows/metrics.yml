@@ -1,0 +1,34 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Isometric commit calendar
+        uses: lowlighter/metrics@latest
+        with:
+          user: Alvin187187
+          token: ${{ secrets.GITHUB_TOKEN }}
+          filename: metrics.plugin.isocalendar.svg
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+      - name: Languages activity
+        uses: lowlighter/metrics@latest
+        with:
+          user: Alvin187187
+          token: ${{ secrets.GITHUB_TOKEN }}
+          filename: metrics.plugin.languages.svg
+          base: ""
+          plugin_languages: yes
