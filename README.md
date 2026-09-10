@@ -26,8 +26,6 @@ I'm passionate about **machine learning, cloud development, and building real-wo
 ---
 
 ## 📈 Cool Statistics
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Alvin187187)](https://github.com/stats-organization/github-stats-extended)
-
 ![Isometric commit calendar](metrics.plugin.isocalendar.svg)
 
 ![Most used languages](metrics.plugin.languages.svg)
