@@ -25,6 +25,9 @@ I'm passionate about **machine learning, cloud development, and building real-wo
 - *I am currently updating my personal website for you to view all of my projects, stay tuned!*
 ---
 
+## 📈 Cool Statistics
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Alvin187187)](https://github.com/stats-organization/github-stats-extended)
+
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
