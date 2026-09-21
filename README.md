@@ -8,16 +8,29 @@ I'm passionate about **machine learning, cloud development, and building real-wo
 
 ## 🌱 About Me
 - 🎓 IT student focused on innovation and emerging technologies  
-- 🤝 Active student leader, AWS TIP-Manila Ambassador, & Student Council mentee 
+- 🤝 Active student leader 
 - 🌐 Member of tech communities:
-  - Data Engineers Philippines  
+  - Data Engineering Pilipinas  
   - Microsoft Azure Community Philippines 
   - Google Developers Group Manila  
-  - AWS Cloud Club Philippines
+  - AWS User Group Philippines
   - AWS e:Novators Philippines
   - Quantum Computing Society
   - Cursor User and Codex User Community
-- 💡 I enjoy solving real-life problems through technology  
+  - n8n Philippines
+  - Pytorch Philippines
+- 💡 I enjoy solving real-life problems through technology
+
+---
+
+## 🕵️ Current Roles
+  - Pytorch Campus Lead Data Scientist
+  - AI Engineer
+  - AI Automation Engineer
+  - Machine Learning Engineer
+  - Freelance Software Engineer
+  - AI Solutions Developer
+---
 
 ---
 
@@ -127,7 +140,7 @@ I'm passionate about **machine learning, cloud development, and building real-wo
 ## ✨ Fun Fact
 1. I love collaborating with people and exploring new technologies that can solve real-world problems!
 2. I started my coding journey way back 2017! When I was 11 years old.
-3. I have **ENFJ** Personality
+3. I have **ENFJ-T** Personality
    
 
 ---
