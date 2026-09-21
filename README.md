@@ -30,7 +30,6 @@ I'm passionate about **machine learning, cloud development, and building real-wo
   - Machine Learning Engineer
   - Freelance Software Engineer
   - AI Solutions Developer
----
 
 ---
 
