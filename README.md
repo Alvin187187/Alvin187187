@@ -6,6 +6,8 @@ I'm passionate about **machine learning, cloud development, and building real-wo
 
 ---
 
+<img src="koi/koi.gif" width="256" alt="My koi" />
+
 ## 🌱 About Me
 - 🎓 IT student focused on innovation and emerging technologies  
 - 🤝 Active student leader 
