@@ -3,11 +3,9 @@
 
 Hi! I'm Alvin, a 2nd-year BS Information Technology student at the Technological Institute of the Philippines.  
 I'm passionate about **machine learning, cloud development, and building real-world tech solutions**.
-
----
-
 <img src="koi/koi.gif" width="256" alt="My koi" />
 
+---
 ## 🌱 About Me
 - 🎓 IT student focused on innovation and emerging technologies  
 - 🤝 Active student leader 
